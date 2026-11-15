@@ -1,0 +1,101 @@
+id,name,city,district,zone_type,capacity,latitude,longitude
+S-CAS-001,Station Maarif 1,Casablanca,Maarif,gare,30,33.542006,-7.570476
+S-CAS-002,Station Anfa 2,Casablanca,Anfa,universite,17,33.550957,-7.570882
+S-CAS-003,Station Sidi Maarouf 3,Casablanca,Sidi Maarouf,plage,31,33.592353,-7.586171
+S-CAS-004,Station Ain Diab 4,Casablanca,Ain Diab,centre_affaires,28,33.566854,-7.627416
+S-CAS-005,Station Maarif 5,Casablanca,Maarif,residentiel,16,33.551713,-7.581639
+S-CAS-006,Station Anfa 6,Casablanca,Anfa,tourisme,27,33.549007,-7.577809
+S-CAS-007,Station Sidi Maarouf 7,Casablanca,Sidi Maarouf,gare,27,33.566662,-7.593863
+S-CAS-008,Station Ain Diab 8,Casablanca,Ain Diab,universite,18,33.597854,-7.62928
+S-CAS-009,Station Maarif 9,Casablanca,Maarif,plage,35,33.545873,-7.595991
+S-CAS-010,Station Anfa 10,Casablanca,Anfa,centre_affaires,18,33.545538,-7.553223
+S-CAS-011,Station Sidi Maarouf 11,Casablanca,Sidi Maarouf,residentiel,20,33.541277,-7.599406
+S-CAS-012,Station Ain Diab 12,Casablanca,Ain Diab,tourisme,21,33.6009,-7.581502
+S-CAS-013,Station Maarif 13,Casablanca,Maarif,gare,35,33.536576,-7.593046
+S-CAS-014,Station Anfa 14,Casablanca,Anfa,universite,13,33.610949,-7.599517
+S-CAS-015,Station Sidi Maarouf 15,Casablanca,Sidi Maarouf,plage,27,33.556554,-7.579509
+S-CAS-016,Station Ain Diab 16,Casablanca,Ain Diab,centre_affaires,38,33.602037,-7.583612
+S-CAS-017,Station Maarif 17,Casablanca,Maarif,residentiel,32,33.538664,-7.576899
+S-CAS-018,Station Anfa 18,Casablanca,Anfa,tourisme,34,33.556251,-7.623417
+S-CAS-019,Station Sidi Maarouf 19,Casablanca,Sidi Maarouf,gare,17,33.602419,-7.59939
+S-CAS-020,Station Ain Diab 20,Casablanca,Ain Diab,universite,24,33.583955,-7.600613
+S-CAS-021,Station Maarif 21,Casablanca,Maarif,plage,21,33.561522,-7.576186
+S-CAS-022,Station Anfa 22,Casablanca,Anfa,centre_affaires,32,33.608032,-7.577957
+S-CAS-023,Station Sidi Maarouf 23,Casablanca,Sidi Maarouf,residentiel,29,33.583898,-7.587069
+S-CAS-024,Station Ain Diab 24,Casablanca,Ain Diab,tourisme,17,33.546172,-7.599444
+S-CAS-025,Station Maarif 25,Casablanca,Maarif,gare,39,33.5843,-7.585244
+S-CAS-026,Station Anfa 26,Casablanca,Anfa,universite,31,33.559043,-7.568335
+S-CAS-027,Station Sidi Maarouf 27,Casablanca,Sidi Maarouf,plage,11,33.551424,-7.627232
+S-CAS-028,Station Ain Diab 28,Casablanca,Ain Diab,centre_affaires,20,33.565193,-7.624505
+S-CAS-029,Station Maarif 29,Casablanca,Maarif,residentiel,39,33.608533,-7.559691
+S-CAS-030,Station Anfa 30,Casablanca,Anfa,tourisme,20,33.55011,-7.589861
+S-CAS-031,Station Sidi Maarouf 31,Casablanca,Sidi Maarouf,gare,38,33.606264,-7.593092
+S-CAS-032,Station Ain Diab 32,Casablanca,Ain Diab,universite,18,33.54427,-7.570201
+S-CAS-033,Station Maarif 33,Casablanca,Maarif,plage,27,33.554119,-7.583033
+S-CAS-034,Station Anfa 34,Casablanca,Anfa,centre_affaires,38,33.579783,-7.60084
+S-CAS-035,Station Sidi Maarouf 35,Casablanca,Sidi Maarouf,residentiel,14,33.573862,-7.622527
+S-CAS-036,Station Ain Diab 36,Casablanca,Ain Diab,tourisme,11,33.601988,-7.617573
+S-CAS-037,Station Maarif 37,Casablanca,Maarif,gare,15,33.596466,-7.596027
+S-CAS-038,Station Anfa 38,Casablanca,Anfa,universite,12,33.563881,-7.582129
+S-CAS-039,Station Sidi Maarouf 39,Casablanca,Sidi Maarouf,plage,24,33.575429,-7.552114
+S-CAS-040,Station Ain Diab 40,Casablanca,Ain Diab,centre_affaires,37,33.608494,-7.575377
+S-CAS-041,Station Maarif 41,Casablanca,Maarif,residentiel,13,33.587637,-7.586842
+S-CAS-042,Station Anfa 42,Casablanca,Anfa,tourisme,18,33.594588,-7.602586
+S-CAS-043,Station Sidi Maarouf 43,Casablanca,Sidi Maarouf,gare,19,33.567881,-7.593502
+S-CAS-044,Station Ain Diab 44,Casablanca,Ain Diab,universite,40,33.590867,-7.572226
+S-CAS-045,Station Maarif 45,Casablanca,Maarif,plage,26,33.594057,-7.589185
+S-CAS-046,Station Anfa 46,Casablanca,Anfa,centre_affaires,13,33.602741,-7.605924
+S-CAS-047,Station Sidi Maarouf 47,Casablanca,Sidi Maarouf,residentiel,30,33.573713,-7.613887
+S-CAS-048,Station Ain Diab 48,Casablanca,Ain Diab,tourisme,21,33.594101,-7.58665
+S-CAS-049,Station Maarif 49,Casablanca,Maarif,gare,34,33.606895,-7.556321
+S-CAS-050,Station Anfa 50,Casablanca,Anfa,universite,29,33.559032,-7.628242
+S-CAS-051,Station Sidi Maarouf 51,Casablanca,Sidi Maarouf,plage,39,33.562138,-7.550974
+S-CAS-052,Station Ain Diab 52,Casablanca,Ain Diab,centre_affaires,35,33.557701,-7.625166
+S-CAS-053,Station Maarif 53,Casablanca,Maarif,residentiel,38,33.578489,-7.623499
+S-CAS-054,Station Anfa 54,Casablanca,Anfa,tourisme,33,33.571979,-7.624263
+S-CAS-055,Station Sidi Maarouf 55,Casablanca,Sidi Maarouf,gare,34,33.575716,-7.619739
+S-CAS-056,Station Ain Diab 56,Casablanca,Ain Diab,universite,31,33.571123,-7.585816
+S-CAS-057,Station Maarif 57,Casablanca,Maarif,plage,18,33.575314,-7.581272
+S-CAS-058,Station Anfa 58,Casablanca,Anfa,centre_affaires,40,33.550044,-7.586656
+S-CAS-059,Station Sidi Maarouf 59,Casablanca,Sidi Maarouf,residentiel,33,33.588289,-7.572764
+S-CAS-060,Station Ain Diab 60,Casablanca,Ain Diab,tourisme,22,33.612712,-7.57781
+S-CAS-061,Station Maarif 61,Casablanca,Maarif,gare,24,33.605069,-7.593681
+S-CAS-062,Station Anfa 62,Casablanca,Anfa,universite,17,33.551076,-7.602753
+S-CAS-063,Station Sidi Maarouf 63,Casablanca,Sidi Maarouf,plage,28,33.577414,-7.582725
+S-CAS-064,Station Ain Diab 64,Casablanca,Ain Diab,centre_affaires,10,33.538779,-7.579312
+S-CAS-065,Station Maarif 65,Casablanca,Maarif,residentiel,17,33.538492,-7.627287
+S-CAS-066,Station Anfa 66,Casablanca,Anfa,tourisme,20,33.538769,-7.61076
+S-CAS-067,Station Sidi Maarouf 67,Casablanca,Sidi Maarouf,gare,31,33.571933,-7.586661
+S-CAS-068,Station Ain Diab 68,Casablanca,Ain Diab,universite,33,33.607941,-7.584117
+S-CAS-069,Station Maarif 69,Casablanca,Maarif,plage,25,33.55254,-7.591962
+S-CAS-070,Station Anfa 70,Casablanca,Anfa,centre_affaires,23,33.548333,-7.622046
+S-CAS-071,Station Sidi Maarouf 71,Casablanca,Sidi Maarouf,residentiel,23,33.561444,-7.596912
+S-CAS-072,Station Ain Diab 72,Casablanca,Ain Diab,tourisme,37,33.591426,-7.575931
+S-CAS-073,Station Maarif 73,Casablanca,Maarif,gare,30,33.540973,-7.59759
+S-CAS-074,Station Anfa 74,Casablanca,Anfa,universite,20,33.597147,-7.621058
+S-CAS-075,Station Sidi Maarouf 75,Casablanca,Sidi Maarouf,plage,16,33.548317,-7.593911
+S-CAS-076,Station Ain Diab 76,Casablanca,Ain Diab,centre_affaires,23,33.547779,-7.59279
+S-CAS-077,Station Maarif 77,Casablanca,Maarif,residentiel,37,33.606961,-7.59435
+S-CAS-078,Station Anfa 78,Casablanca,Anfa,tourisme,37,33.601577,-7.621967
+S-CAS-079,Station Sidi Maarouf 79,Casablanca,Sidi Maarouf,gare,30,33.613043,-7.562918
+S-CAS-080,Station Ain Diab 80,Casablanca,Ain Diab,universite,12,33.607209,-7.561904
+S-CAS-081,Station Maarif 81,Casablanca,Maarif,plage,15,33.565613,-7.591291
+S-CAS-082,Station Anfa 82,Casablanca,Anfa,centre_affaires,37,33.565183,-7.625109
+S-CAS-083,Station Sidi Maarouf 83,Casablanca,Sidi Maarouf,residentiel,22,33.533272,-7.598566
+S-CAS-084,Station Ain Diab 84,Casablanca,Ain Diab,tourisme,39,33.595826,-7.593399
+S-CAS-085,Station Maarif 85,Casablanca,Maarif,gare,23,33.588827,-7.57136
+S-CAS-086,Station Anfa 86,Casablanca,Anfa,universite,35,33.577561,-7.572327
+S-CAS-087,Station Sidi Maarouf 87,Casablanca,Sidi Maarouf,plage,14,33.548292,-7.612384
+S-CAS-088,Station Ain Diab 88,Casablanca,Ain Diab,centre_affaires,11,33.579434,-7.586424
+S-CAS-089,Station Maarif 89,Casablanca,Maarif,residentiel,33,33.558188,-7.625789
+S-CAS-090,Station Anfa 90,Casablanca,Anfa,tourisme,25,33.573328,-7.561582
+S-CAS-091,Station Sidi Maarouf 91,Casablanca,Sidi Maarouf,gare,15,33.53765,-7.589174
+S-CAS-092,Station Ain Diab 92,Casablanca,Ain Diab,universite,37,33.547966,-7.582197
+S-CAS-093,Station Maarif 93,Casablanca,Maarif,plage,31,33.602046,-7.597498
+S-CAS-094,Station Anfa 94,Casablanca,Anfa,centre_affaires,40,33.604323,-7.610103
+S-CAS-095,Station Sidi Maarouf 95,Casablanca,Sidi Maarouf,residentiel,29,33.536279,-7.623241
+S-CAS-096,Station Ain Diab 96,Casablanca,Ain Diab,tourisme,31,33.579794,-7.587977
+S-CAS-097,Station Maarif 97,Casablanca,Maarif,gare,39,33.553961,-7.576222
+S-CAS-098,Station Anfa 98,Casablanca,Anfa,universite,20,33.552195,-7.598137
+S-CAS-099,Station Sidi Maarouf 99,Casablanca,Sidi Maarouf,plage,31,33.58474,-7.593222
+S-CAS-100,Station Ain Diab 100,Casablanca,Ain Diab,centre_affaires,39,33.593249,-7.623997

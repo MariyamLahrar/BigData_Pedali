@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Identifiants et secrets
+*.pem
+*.key
+credentials.json
+
+# Donnees volumineuses et temporaires
+*.parquet
+*.crc
+*.log
+checkpoints/
+spark-warehouse/
+tmp/
+data/raw/
+data/bronze/
+data/silver/
+data/gold/
+
+# Resultats temporaires
+vertices_casa/
+edges_casa/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+
+# Spark Streaming
+data/checkpoints/
+**/.ipynb_checkpoints/
+
+# Delta Lake
+data/trips_delta/
+
+# Donnees temporaires
+data/checkpoints/
+*.crc
+
+/data/checkpoints/
+/data/trips_delta/
+**/.ipynb_checkpoints/
+*.crc
+
+/data/trips_parquet/
+/edges_casa/
+/vertices_casa/
+**/.ipynb_checkpoints/
+# Bibliotheques Spark volumineuses
+/spark-jars/
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.pyc
+.venv/
+spark-jars/
+Captures/

@@ -1,0 +1,4002 @@
+[
+  {
+    "station_id": "S-CAS-001",
+    "name": "Station Maarif 1",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "gare",
+    "capacity": 30,
+    "latitude": 33.542006,
+    "longitude": -7.570476
+  },
+  {
+    "station_id": "S-CAS-002",
+    "name": "Station Anfa 2",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "universite",
+    "capacity": 17,
+    "latitude": 33.550957,
+    "longitude": -7.570882
+  },
+  {
+    "station_id": "S-CAS-003",
+    "name": "Station Sidi Maarouf 3",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "plage",
+    "capacity": 31,
+    "latitude": 33.592353,
+    "longitude": -7.586171
+  },
+  {
+    "station_id": "S-CAS-004",
+    "name": "Station Ain Diab 4",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "centre_affaires",
+    "capacity": 28,
+    "latitude": 33.566854,
+    "longitude": -7.627416
+  },
+  {
+    "station_id": "S-CAS-005",
+    "name": "Station Maarif 5",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "residentiel",
+    "capacity": 16,
+    "latitude": 33.551713,
+    "longitude": -7.581639
+  },
+  {
+    "station_id": "S-CAS-006",
+    "name": "Station Anfa 6",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "tourisme",
+    "capacity": 27,
+    "latitude": 33.549007,
+    "longitude": -7.577809
+  },
+  {
+    "station_id": "S-CAS-007",
+    "name": "Station Sidi Maarouf 7",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "gare",
+    "capacity": 27,
+    "latitude": 33.566662,
+    "longitude": -7.593863
+  },
+  {
+    "station_id": "S-CAS-008",
+    "name": "Station Ain Diab 8",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "universite",
+    "capacity": 18,
+    "latitude": 33.597854,
+    "longitude": -7.62928
+  },
+  {
+    "station_id": "S-CAS-009",
+    "name": "Station Maarif 9",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "plage",
+    "capacity": 35,
+    "latitude": 33.545873,
+    "longitude": -7.595991
+  },
+  {
+    "station_id": "S-CAS-010",
+    "name": "Station Anfa 10",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "centre_affaires",
+    "capacity": 18,
+    "latitude": 33.545538,
+    "longitude": -7.553223
+  },
+  {
+    "station_id": "S-CAS-011",
+    "name": "Station Sidi Maarouf 11",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "residentiel",
+    "capacity": 20,
+    "latitude": 33.541277,
+    "longitude": -7.599406
+  },
+  {
+    "station_id": "S-CAS-012",
+    "name": "Station Ain Diab 12",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "tourisme",
+    "capacity": 21,
+    "latitude": 33.6009,
+    "longitude": -7.581502
+  },
+  {
+    "station_id": "S-CAS-013",
+    "name": "Station Maarif 13",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "gare",
+    "capacity": 35,
+    "latitude": 33.536576,
+    "longitude": -7.593046
+  },
+  {
+    "station_id": "S-CAS-014",
+    "name": "Station Anfa 14",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "universite",
+    "capacity": 13,
+    "latitude": 33.610949,
+    "longitude": -7.599517
+  },
+  {
+    "station_id": "S-CAS-015",
+    "name": "Station Sidi Maarouf 15",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "plage",
+    "capacity": 27,
+    "latitude": 33.556554,
+    "longitude": -7.579509
+  },
+  {
+    "station_id": "S-CAS-016",
+    "name": "Station Ain Diab 16",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "centre_affaires",
+    "capacity": 38,
+    "latitude": 33.602037,
+    "longitude": -7.583612
+  },
+  {
+    "station_id": "S-CAS-017",
+    "name": "Station Maarif 17",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "residentiel",
+    "capacity": 32,
+    "latitude": 33.538664,
+    "longitude": -7.576899
+  },
+  {
+    "station_id": "S-CAS-018",
+    "name": "Station Anfa 18",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "tourisme",
+    "capacity": 34,
+    "latitude": 33.556251,
+    "longitude": -7.623417
+  },
+  {
+    "station_id": "S-CAS-019",
+    "name": "Station Sidi Maarouf 19",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "gare",
+    "capacity": 17,
+    "latitude": 33.602419,
+    "longitude": -7.59939
+  },
+  {
+    "station_id": "S-CAS-020",
+    "name": "Station Ain Diab 20",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "universite",
+    "capacity": 24,
+    "latitude": 33.583955,
+    "longitude": -7.600613
+  },
+  {
+    "station_id": "S-CAS-021",
+    "name": "Station Maarif 21",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "plage",
+    "capacity": 21,
+    "latitude": 33.561522,
+    "longitude": -7.576186
+  },
+  {
+    "station_id": "S-CAS-022",
+    "name": "Station Anfa 22",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "centre_affaires",
+    "capacity": 32,
+    "latitude": 33.608032,
+    "longitude": -7.577957
+  },
+  {
+    "station_id": "S-CAS-023",
+    "name": "Station Sidi Maarouf 23",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "residentiel",
+    "capacity": 29,
+    "latitude": 33.583898,
+    "longitude": -7.587069
+  },
+  {
+    "station_id": "S-CAS-024",
+    "name": "Station Ain Diab 24",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "tourisme",
+    "capacity": 17,
+    "latitude": 33.546172,
+    "longitude": -7.599444
+  },
+  {
+    "station_id": "S-CAS-025",
+    "name": "Station Maarif 25",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "gare",
+    "capacity": 39,
+    "latitude": 33.5843,
+    "longitude": -7.585244
+  },
+  {
+    "station_id": "S-CAS-026",
+    "name": "Station Anfa 26",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "universite",
+    "capacity": 31,
+    "latitude": 33.559043,
+    "longitude": -7.568335
+  },
+  {
+    "station_id": "S-CAS-027",
+    "name": "Station Sidi Maarouf 27",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "plage",
+    "capacity": 11,
+    "latitude": 33.551424,
+    "longitude": -7.627232
+  },
+  {
+    "station_id": "S-CAS-028",
+    "name": "Station Ain Diab 28",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "centre_affaires",
+    "capacity": 20,
+    "latitude": 33.565193,
+    "longitude": -7.624505
+  },
+  {
+    "station_id": "S-CAS-029",
+    "name": "Station Maarif 29",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "residentiel",
+    "capacity": 39,
+    "latitude": 33.608533,
+    "longitude": -7.559691
+  },
+  {
+    "station_id": "S-CAS-030",
+    "name": "Station Anfa 30",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "tourisme",
+    "capacity": 20,
+    "latitude": 33.55011,
+    "longitude": -7.589861
+  },
+  {
+    "station_id": "S-CAS-031",
+    "name": "Station Sidi Maarouf 31",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "gare",
+    "capacity": 38,
+    "latitude": 33.606264,
+    "longitude": -7.593092
+  },
+  {
+    "station_id": "S-CAS-032",
+    "name": "Station Ain Diab 32",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "universite",
+    "capacity": 18,
+    "latitude": 33.54427,
+    "longitude": -7.570201
+  },
+  {
+    "station_id": "S-CAS-033",
+    "name": "Station Maarif 33",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "plage",
+    "capacity": 27,
+    "latitude": 33.554119,
+    "longitude": -7.583033
+  },
+  {
+    "station_id": "S-CAS-034",
+    "name": "Station Anfa 34",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "centre_affaires",
+    "capacity": 38,
+    "latitude": 33.579783,
+    "longitude": -7.60084
+  },
+  {
+    "station_id": "S-CAS-035",
+    "name": "Station Sidi Maarouf 35",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "residentiel",
+    "capacity": 14,
+    "latitude": 33.573862,
+    "longitude": -7.622527
+  },
+  {
+    "station_id": "S-CAS-036",
+    "name": "Station Ain Diab 36",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "tourisme",
+    "capacity": 11,
+    "latitude": 33.601988,
+    "longitude": -7.617573
+  },
+  {
+    "station_id": "S-CAS-037",
+    "name": "Station Maarif 37",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "gare",
+    "capacity": 15,
+    "latitude": 33.596466,
+    "longitude": -7.596027
+  },
+  {
+    "station_id": "S-CAS-038",
+    "name": "Station Anfa 38",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "universite",
+    "capacity": 12,
+    "latitude": 33.563881,
+    "longitude": -7.582129
+  },
+  {
+    "station_id": "S-CAS-039",
+    "name": "Station Sidi Maarouf 39",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "plage",
+    "capacity": 24,
+    "latitude": 33.575429,
+    "longitude": -7.552114
+  },
+  {
+    "station_id": "S-CAS-040",
+    "name": "Station Ain Diab 40",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "centre_affaires",
+    "capacity": 37,
+    "latitude": 33.608494,
+    "longitude": -7.575377
+  },
+  {
+    "station_id": "S-CAS-041",
+    "name": "Station Maarif 41",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "residentiel",
+    "capacity": 13,
+    "latitude": 33.587637,
+    "longitude": -7.586842
+  },
+  {
+    "station_id": "S-CAS-042",
+    "name": "Station Anfa 42",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "tourisme",
+    "capacity": 18,
+    "latitude": 33.594588,
+    "longitude": -7.602586
+  },
+  {
+    "station_id": "S-CAS-043",
+    "name": "Station Sidi Maarouf 43",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "gare",
+    "capacity": 19,
+    "latitude": 33.567881,
+    "longitude": -7.593502
+  },
+  {
+    "station_id": "S-CAS-044",
+    "name": "Station Ain Diab 44",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "universite",
+    "capacity": 40,
+    "latitude": 33.590867,
+    "longitude": -7.572226
+  },
+  {
+    "station_id": "S-CAS-045",
+    "name": "Station Maarif 45",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "plage",
+    "capacity": 26,
+    "latitude": 33.594057,
+    "longitude": -7.589185
+  },
+  {
+    "station_id": "S-CAS-046",
+    "name": "Station Anfa 46",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "centre_affaires",
+    "capacity": 13,
+    "latitude": 33.602741,
+    "longitude": -7.605924
+  },
+  {
+    "station_id": "S-CAS-047",
+    "name": "Station Sidi Maarouf 47",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "residentiel",
+    "capacity": 30,
+    "latitude": 33.573713,
+    "longitude": -7.613887
+  },
+  {
+    "station_id": "S-CAS-048",
+    "name": "Station Ain Diab 48",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "tourisme",
+    "capacity": 21,
+    "latitude": 33.594101,
+    "longitude": -7.58665
+  },
+  {
+    "station_id": "S-CAS-049",
+    "name": "Station Maarif 49",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "gare",
+    "capacity": 34,
+    "latitude": 33.606895,
+    "longitude": -7.556321
+  },
+  {
+    "station_id": "S-CAS-050",
+    "name": "Station Anfa 50",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "universite",
+    "capacity": 29,
+    "latitude": 33.559032,
+    "longitude": -7.628242
+  },
+  {
+    "station_id": "S-CAS-051",
+    "name": "Station Sidi Maarouf 51",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "plage",
+    "capacity": 39,
+    "latitude": 33.562138,
+    "longitude": -7.550974
+  },
+  {
+    "station_id": "S-CAS-052",
+    "name": "Station Ain Diab 52",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "centre_affaires",
+    "capacity": 35,
+    "latitude": 33.557701,
+    "longitude": -7.625166
+  },
+  {
+    "station_id": "S-CAS-053",
+    "name": "Station Maarif 53",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "residentiel",
+    "capacity": 38,
+    "latitude": 33.578489,
+    "longitude": -7.623499
+  },
+  {
+    "station_id": "S-CAS-054",
+    "name": "Station Anfa 54",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "tourisme",
+    "capacity": 33,
+    "latitude": 33.571979,
+    "longitude": -7.624263
+  },
+  {
+    "station_id": "S-CAS-055",
+    "name": "Station Sidi Maarouf 55",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "gare",
+    "capacity": 34,
+    "latitude": 33.575716,
+    "longitude": -7.619739
+  },
+  {
+    "station_id": "S-CAS-056",
+    "name": "Station Ain Diab 56",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "universite",
+    "capacity": 31,
+    "latitude": 33.571123,
+    "longitude": -7.585816
+  },
+  {
+    "station_id": "S-CAS-057",
+    "name": "Station Maarif 57",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "plage",
+    "capacity": 18,
+    "latitude": 33.575314,
+    "longitude": -7.581272
+  },
+  {
+    "station_id": "S-CAS-058",
+    "name": "Station Anfa 58",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "centre_affaires",
+    "capacity": 40,
+    "latitude": 33.550044,
+    "longitude": -7.586656
+  },
+  {
+    "station_id": "S-CAS-059",
+    "name": "Station Sidi Maarouf 59",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "residentiel",
+    "capacity": 33,
+    "latitude": 33.588289,
+    "longitude": -7.572764
+  },
+  {
+    "station_id": "S-CAS-060",
+    "name": "Station Ain Diab 60",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "tourisme",
+    "capacity": 22,
+    "latitude": 33.612712,
+    "longitude": -7.57781
+  },
+  {
+    "station_id": "S-CAS-061",
+    "name": "Station Maarif 61",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "gare",
+    "capacity": 24,
+    "latitude": 33.605069,
+    "longitude": -7.593681
+  },
+  {
+    "station_id": "S-CAS-062",
+    "name": "Station Anfa 62",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "universite",
+    "capacity": 17,
+    "latitude": 33.551076,
+    "longitude": -7.602753
+  },
+  {
+    "station_id": "S-CAS-063",
+    "name": "Station Sidi Maarouf 63",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "plage",
+    "capacity": 28,
+    "latitude": 33.577414,
+    "longitude": -7.582725
+  },
+  {
+    "station_id": "S-CAS-064",
+    "name": "Station Ain Diab 64",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "centre_affaires",
+    "capacity": 10,
+    "latitude": 33.538779,
+    "longitude": -7.579312
+  },
+  {
+    "station_id": "S-CAS-065",
+    "name": "Station Maarif 65",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "residentiel",
+    "capacity": 17,
+    "latitude": 33.538492,
+    "longitude": -7.627287
+  },
+  {
+    "station_id": "S-CAS-066",
+    "name": "Station Anfa 66",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "tourisme",
+    "capacity": 20,
+    "latitude": 33.538769,
+    "longitude": -7.61076
+  },
+  {
+    "station_id": "S-CAS-067",
+    "name": "Station Sidi Maarouf 67",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "gare",
+    "capacity": 31,
+    "latitude": 33.571933,
+    "longitude": -7.586661
+  },
+  {
+    "station_id": "S-CAS-068",
+    "name": "Station Ain Diab 68",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "universite",
+    "capacity": 33,
+    "latitude": 33.607941,
+    "longitude": -7.584117
+  },
+  {
+    "station_id": "S-CAS-069",
+    "name": "Station Maarif 69",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "plage",
+    "capacity": 25,
+    "latitude": 33.55254,
+    "longitude": -7.591962
+  },
+  {
+    "station_id": "S-CAS-070",
+    "name": "Station Anfa 70",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "centre_affaires",
+    "capacity": 23,
+    "latitude": 33.548333,
+    "longitude": -7.622046
+  },
+  {
+    "station_id": "S-CAS-071",
+    "name": "Station Sidi Maarouf 71",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "residentiel",
+    "capacity": 23,
+    "latitude": 33.561444,
+    "longitude": -7.596912
+  },
+  {
+    "station_id": "S-CAS-072",
+    "name": "Station Ain Diab 72",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "tourisme",
+    "capacity": 37,
+    "latitude": 33.591426,
+    "longitude": -7.575931
+  },
+  {
+    "station_id": "S-CAS-073",
+    "name": "Station Maarif 73",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "gare",
+    "capacity": 30,
+    "latitude": 33.540973,
+    "longitude": -7.59759
+  },
+  {
+    "station_id": "S-CAS-074",
+    "name": "Station Anfa 74",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "universite",
+    "capacity": 20,
+    "latitude": 33.597147,
+    "longitude": -7.621058
+  },
+  {
+    "station_id": "S-CAS-075",
+    "name": "Station Sidi Maarouf 75",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "plage",
+    "capacity": 16,
+    "latitude": 33.548317,
+    "longitude": -7.593911
+  },
+  {
+    "station_id": "S-CAS-076",
+    "name": "Station Ain Diab 76",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "centre_affaires",
+    "capacity": 23,
+    "latitude": 33.547779,
+    "longitude": -7.59279
+  },
+  {
+    "station_id": "S-CAS-077",
+    "name": "Station Maarif 77",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "residentiel",
+    "capacity": 37,
+    "latitude": 33.606961,
+    "longitude": -7.59435
+  },
+  {
+    "station_id": "S-CAS-078",
+    "name": "Station Anfa 78",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "tourisme",
+    "capacity": 37,
+    "latitude": 33.601577,
+    "longitude": -7.621967
+  },
+  {
+    "station_id": "S-CAS-079",
+    "name": "Station Sidi Maarouf 79",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "gare",
+    "capacity": 30,
+    "latitude": 33.613043,
+    "longitude": -7.562918
+  },
+  {
+    "station_id": "S-CAS-080",
+    "name": "Station Ain Diab 80",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "universite",
+    "capacity": 12,
+    "latitude": 33.607209,
+    "longitude": -7.561904
+  },
+  {
+    "station_id": "S-CAS-081",
+    "name": "Station Maarif 81",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "plage",
+    "capacity": 15,
+    "latitude": 33.565613,
+    "longitude": -7.591291
+  },
+  {
+    "station_id": "S-CAS-082",
+    "name": "Station Anfa 82",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "centre_affaires",
+    "capacity": 37,
+    "latitude": 33.565183,
+    "longitude": -7.625109
+  },
+  {
+    "station_id": "S-CAS-083",
+    "name": "Station Sidi Maarouf 83",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "residentiel",
+    "capacity": 22,
+    "latitude": 33.533272,
+    "longitude": -7.598566
+  },
+  {
+    "station_id": "S-CAS-084",
+    "name": "Station Ain Diab 84",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "tourisme",
+    "capacity": 39,
+    "latitude": 33.595826,
+    "longitude": -7.593399
+  },
+  {
+    "station_id": "S-CAS-085",
+    "name": "Station Maarif 85",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "gare",
+    "capacity": 23,
+    "latitude": 33.588827,
+    "longitude": -7.57136
+  },
+  {
+    "station_id": "S-CAS-086",
+    "name": "Station Anfa 86",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "universite",
+    "capacity": 35,
+    "latitude": 33.577561,
+    "longitude": -7.572327
+  },
+  {
+    "station_id": "S-CAS-087",
+    "name": "Station Sidi Maarouf 87",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "plage",
+    "capacity": 14,
+    "latitude": 33.548292,
+    "longitude": -7.612384
+  },
+  {
+    "station_id": "S-CAS-088",
+    "name": "Station Ain Diab 88",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "centre_affaires",
+    "capacity": 11,
+    "latitude": 33.579434,
+    "longitude": -7.586424
+  },
+  {
+    "station_id": "S-CAS-089",
+    "name": "Station Maarif 89",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "residentiel",
+    "capacity": 33,
+    "latitude": 33.558188,
+    "longitude": -7.625789
+  },
+  {
+    "station_id": "S-CAS-090",
+    "name": "Station Anfa 90",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "tourisme",
+    "capacity": 25,
+    "latitude": 33.573328,
+    "longitude": -7.561582
+  },
+  {
+    "station_id": "S-CAS-091",
+    "name": "Station Sidi Maarouf 91",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "gare",
+    "capacity": 15,
+    "latitude": 33.53765,
+    "longitude": -7.589174
+  },
+  {
+    "station_id": "S-CAS-092",
+    "name": "Station Ain Diab 92",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "universite",
+    "capacity": 37,
+    "latitude": 33.547966,
+    "longitude": -7.582197
+  },
+  {
+    "station_id": "S-CAS-093",
+    "name": "Station Maarif 93",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "plage",
+    "capacity": 31,
+    "latitude": 33.602046,
+    "longitude": -7.597498
+  },
+  {
+    "station_id": "S-CAS-094",
+    "name": "Station Anfa 94",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "centre_affaires",
+    "capacity": 40,
+    "latitude": 33.604323,
+    "longitude": -7.610103
+  },
+  {
+    "station_id": "S-CAS-095",
+    "name": "Station Sidi Maarouf 95",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "residentiel",
+    "capacity": 29,
+    "latitude": 33.536279,
+    "longitude": -7.623241
+  },
+  {
+    "station_id": "S-CAS-096",
+    "name": "Station Ain Diab 96",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "tourisme",
+    "capacity": 31,
+    "latitude": 33.579794,
+    "longitude": -7.587977
+  },
+  {
+    "station_id": "S-CAS-097",
+    "name": "Station Maarif 97",
+    "city": "Casablanca",
+    "district": "Maarif",
+    "zone_type": "gare",
+    "capacity": 39,
+    "latitude": 33.553961,
+    "longitude": -7.576222
+  },
+  {
+    "station_id": "S-CAS-098",
+    "name": "Station Anfa 98",
+    "city": "Casablanca",
+    "district": "Anfa",
+    "zone_type": "universite",
+    "capacity": 20,
+    "latitude": 33.552195,
+    "longitude": -7.598137
+  },
+  {
+    "station_id": "S-CAS-099",
+    "name": "Station Sidi Maarouf 99",
+    "city": "Casablanca",
+    "district": "Sidi Maarouf",
+    "zone_type": "plage",
+    "capacity": 31,
+    "latitude": 33.58474,
+    "longitude": -7.593222
+  },
+  {
+    "station_id": "S-CAS-100",
+    "name": "Station Ain Diab 100",
+    "city": "Casablanca",
+    "district": "Ain Diab",
+    "zone_type": "centre_affaires",
+    "capacity": 39,
+    "latitude": 33.593249,
+    "longitude": -7.623997
+  },
+  {
+    "station_id": "S-RAB-001",
+    "name": "Station Agdal 1",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "gare",
+    "capacity": 24,
+    "latitude": 34.030593,
+    "longitude": -6.836561
+  },
+  {
+    "station_id": "S-RAB-002",
+    "name": "Station Hassan 2",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "universite",
+    "capacity": 13,
+    "latitude": 33.986761,
+    "longitude": -6.864548
+  },
+  {
+    "station_id": "S-RAB-003",
+    "name": "Station Hay Riad 3",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "plage",
+    "capacity": 18,
+    "latitude": 33.991497,
+    "longitude": -6.853679
+  },
+  {
+    "station_id": "S-RAB-004",
+    "name": "Station Souissi 4",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "centre_affaires",
+    "capacity": 12,
+    "latitude": 34.051242,
+    "longitude": -6.852038
+  },
+  {
+    "station_id": "S-RAB-005",
+    "name": "Station Agdal 5",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "residentiel",
+    "capacity": 15,
+    "latitude": 34.015955,
+    "longitude": -6.838143
+  },
+  {
+    "station_id": "S-RAB-006",
+    "name": "Station Hassan 6",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "tourisme",
+    "capacity": 19,
+    "latitude": 34.029834,
+    "longitude": -6.802621
+  },
+  {
+    "station_id": "S-RAB-007",
+    "name": "Station Hay Riad 7",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "gare",
+    "capacity": 30,
+    "latitude": 34.023215,
+    "longitude": -6.828171
+  },
+  {
+    "station_id": "S-RAB-008",
+    "name": "Station Souissi 8",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "universite",
+    "capacity": 27,
+    "latitude": 34.00485,
+    "longitude": -6.828529
+  },
+  {
+    "station_id": "S-RAB-009",
+    "name": "Station Agdal 9",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "plage",
+    "capacity": 40,
+    "latitude": 34.05115,
+    "longitude": -6.860443
+  },
+  {
+    "station_id": "S-RAB-010",
+    "name": "Station Hassan 10",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "centre_affaires",
+    "capacity": 38,
+    "latitude": 33.989463,
+    "longitude": -6.837342
+  },
+  {
+    "station_id": "S-RAB-011",
+    "name": "Station Hay Riad 11",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "residentiel",
+    "capacity": 18,
+    "latitude": 34.003441,
+    "longitude": -6.86475
+  },
+  {
+    "station_id": "S-RAB-012",
+    "name": "Station Souissi 12",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "tourisme",
+    "capacity": 20,
+    "latitude": 33.997188,
+    "longitude": -6.830861
+  },
+  {
+    "station_id": "S-RAB-013",
+    "name": "Station Agdal 13",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "gare",
+    "capacity": 18,
+    "latitude": 34.021333,
+    "longitude": -6.86151
+  },
+  {
+    "station_id": "S-RAB-014",
+    "name": "Station Hassan 14",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "universite",
+    "capacity": 39,
+    "latitude": 34.048588,
+    "longitude": -6.874216
+  },
+  {
+    "station_id": "S-RAB-015",
+    "name": "Station Hay Riad 15",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "plage",
+    "capacity": 23,
+    "latitude": 34.047248,
+    "longitude": -6.878073
+  },
+  {
+    "station_id": "S-RAB-016",
+    "name": "Station Souissi 16",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "centre_affaires",
+    "capacity": 20,
+    "latitude": 34.04259,
+    "longitude": -6.830631
+  },
+  {
+    "station_id": "S-RAB-017",
+    "name": "Station Agdal 17",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "residentiel",
+    "capacity": 18,
+    "latitude": 33.993827,
+    "longitude": -6.846253
+  },
+  {
+    "station_id": "S-RAB-018",
+    "name": "Station Hassan 18",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "tourisme",
+    "capacity": 32,
+    "latitude": 34.015115,
+    "longitude": -6.880826
+  },
+  {
+    "station_id": "S-RAB-019",
+    "name": "Station Hay Riad 19",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "gare",
+    "capacity": 12,
+    "latitude": 34.056504,
+    "longitude": -6.826318
+  },
+  {
+    "station_id": "S-RAB-020",
+    "name": "Station Souissi 20",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "universite",
+    "capacity": 14,
+    "latitude": 34.024547,
+    "longitude": -6.814832
+  },
+  {
+    "station_id": "S-RAB-021",
+    "name": "Station Agdal 21",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "plage",
+    "capacity": 28,
+    "latitude": 34.025102,
+    "longitude": -6.847217
+  },
+  {
+    "station_id": "S-RAB-022",
+    "name": "Station Hassan 22",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "centre_affaires",
+    "capacity": 11,
+    "latitude": 34.005561,
+    "longitude": -6.809681
+  },
+  {
+    "station_id": "S-RAB-023",
+    "name": "Station Hay Riad 23",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "residentiel",
+    "capacity": 35,
+    "latitude": 34.058676,
+    "longitude": -6.878408
+  },
+  {
+    "station_id": "S-RAB-024",
+    "name": "Station Souissi 24",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "tourisme",
+    "capacity": 21,
+    "latitude": 33.997706,
+    "longitude": -6.861638
+  },
+  {
+    "station_id": "S-RAB-025",
+    "name": "Station Agdal 25",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "gare",
+    "capacity": 13,
+    "latitude": 34.009194,
+    "longitude": -6.836809
+  },
+  {
+    "station_id": "S-RAB-026",
+    "name": "Station Hassan 26",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "universite",
+    "capacity": 37,
+    "latitude": 34.01341,
+    "longitude": -6.831947
+  },
+  {
+    "station_id": "S-RAB-027",
+    "name": "Station Hay Riad 27",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "plage",
+    "capacity": 14,
+    "latitude": 34.054961,
+    "longitude": -6.862661
+  },
+  {
+    "station_id": "S-RAB-028",
+    "name": "Station Souissi 28",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "centre_affaires",
+    "capacity": 15,
+    "latitude": 34.058996,
+    "longitude": -6.816738
+  },
+  {
+    "station_id": "S-RAB-029",
+    "name": "Station Agdal 29",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "residentiel",
+    "capacity": 38,
+    "latitude": 34.013884,
+    "longitude": -6.867251
+  },
+  {
+    "station_id": "S-RAB-030",
+    "name": "Station Hassan 30",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "tourisme",
+    "capacity": 39,
+    "latitude": 34.007475,
+    "longitude": -6.807135
+  },
+  {
+    "station_id": "S-RAB-031",
+    "name": "Station Hay Riad 31",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "gare",
+    "capacity": 35,
+    "latitude": 34.034493,
+    "longitude": -6.822795
+  },
+  {
+    "station_id": "S-RAB-032",
+    "name": "Station Souissi 32",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "universite",
+    "capacity": 17,
+    "latitude": 34.002244,
+    "longitude": -6.81861
+  },
+  {
+    "station_id": "S-RAB-033",
+    "name": "Station Agdal 33",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "plage",
+    "capacity": 13,
+    "latitude": 34.011503,
+    "longitude": -6.878502
+  },
+  {
+    "station_id": "S-RAB-034",
+    "name": "Station Hassan 34",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "centre_affaires",
+    "capacity": 25,
+    "latitude": 33.998695,
+    "longitude": -6.816273
+  },
+  {
+    "station_id": "S-RAB-035",
+    "name": "Station Hay Riad 35",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "residentiel",
+    "capacity": 24,
+    "latitude": 34.008873,
+    "longitude": -6.815957
+  },
+  {
+    "station_id": "S-RAB-036",
+    "name": "Station Souissi 36",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "tourisme",
+    "capacity": 37,
+    "latitude": 33.999108,
+    "longitude": -6.879707
+  },
+  {
+    "station_id": "S-RAB-037",
+    "name": "Station Agdal 37",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "gare",
+    "capacity": 16,
+    "latitude": 34.012777,
+    "longitude": -6.859312
+  },
+  {
+    "station_id": "S-RAB-038",
+    "name": "Station Hassan 38",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "universite",
+    "capacity": 12,
+    "latitude": 34.058251,
+    "longitude": -6.85927
+  },
+  {
+    "station_id": "S-RAB-039",
+    "name": "Station Hay Riad 39",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "plage",
+    "capacity": 30,
+    "latitude": 34.021652,
+    "longitude": -6.827239
+  },
+  {
+    "station_id": "S-RAB-040",
+    "name": "Station Souissi 40",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "centre_affaires",
+    "capacity": 36,
+    "latitude": 34.023797,
+    "longitude": -6.806461
+  },
+  {
+    "station_id": "S-RAB-041",
+    "name": "Station Agdal 41",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "residentiel",
+    "capacity": 13,
+    "latitude": 34.051063,
+    "longitude": -6.860703
+  },
+  {
+    "station_id": "S-RAB-042",
+    "name": "Station Hassan 42",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "tourisme",
+    "capacity": 28,
+    "latitude": 34.057903,
+    "longitude": -6.860363
+  },
+  {
+    "station_id": "S-RAB-043",
+    "name": "Station Hay Riad 43",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "gare",
+    "capacity": 13,
+    "latitude": 34.028626,
+    "longitude": -6.853945
+  },
+  {
+    "station_id": "S-RAB-044",
+    "name": "Station Souissi 44",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "universite",
+    "capacity": 35,
+    "latitude": 34.005994,
+    "longitude": -6.833103
+  },
+  {
+    "station_id": "S-RAB-045",
+    "name": "Station Agdal 45",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "plage",
+    "capacity": 26,
+    "latitude": 33.990152,
+    "longitude": -6.80964
+  },
+  {
+    "station_id": "S-RAB-046",
+    "name": "Station Hassan 46",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "centre_affaires",
+    "capacity": 16,
+    "latitude": 34.001278,
+    "longitude": -6.824897
+  },
+  {
+    "station_id": "S-RAB-047",
+    "name": "Station Hay Riad 47",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "residentiel",
+    "capacity": 10,
+    "latitude": 34.022494,
+    "longitude": -6.817079
+  },
+  {
+    "station_id": "S-RAB-048",
+    "name": "Station Souissi 48",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "tourisme",
+    "capacity": 31,
+    "latitude": 34.038454,
+    "longitude": -6.822244
+  },
+  {
+    "station_id": "S-RAB-049",
+    "name": "Station Agdal 49",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "gare",
+    "capacity": 31,
+    "latitude": 33.996663,
+    "longitude": -6.847096
+  },
+  {
+    "station_id": "S-RAB-050",
+    "name": "Station Hassan 50",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "universite",
+    "capacity": 40,
+    "latitude": 34.034039,
+    "longitude": -6.855184
+  },
+  {
+    "station_id": "S-RAB-051",
+    "name": "Station Hay Riad 51",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "plage",
+    "capacity": 20,
+    "latitude": 34.033971,
+    "longitude": -6.87163
+  },
+  {
+    "station_id": "S-RAB-052",
+    "name": "Station Souissi 52",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "centre_affaires",
+    "capacity": 38,
+    "latitude": 34.004926,
+    "longitude": -6.856857
+  },
+  {
+    "station_id": "S-RAB-053",
+    "name": "Station Agdal 53",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "residentiel",
+    "capacity": 23,
+    "latitude": 34.006995,
+    "longitude": -6.825823
+  },
+  {
+    "station_id": "S-RAB-054",
+    "name": "Station Hassan 54",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "tourisme",
+    "capacity": 27,
+    "latitude": 33.991083,
+    "longitude": -6.847964
+  },
+  {
+    "station_id": "S-RAB-055",
+    "name": "Station Hay Riad 55",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "gare",
+    "capacity": 40,
+    "latitude": 34.011232,
+    "longitude": -6.821749
+  },
+  {
+    "station_id": "S-RAB-056",
+    "name": "Station Souissi 56",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "universite",
+    "capacity": 15,
+    "latitude": 34.030141,
+    "longitude": -6.857524
+  },
+  {
+    "station_id": "S-RAB-057",
+    "name": "Station Agdal 57",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "plage",
+    "capacity": 27,
+    "latitude": 34.047598,
+    "longitude": -6.85729
+  },
+  {
+    "station_id": "S-RAB-058",
+    "name": "Station Hassan 58",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "centre_affaires",
+    "capacity": 16,
+    "latitude": 34.015291,
+    "longitude": -6.835201
+  },
+  {
+    "station_id": "S-RAB-059",
+    "name": "Station Hay Riad 59",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "residentiel",
+    "capacity": 30,
+    "latitude": 34.00668,
+    "longitude": -6.846257
+  },
+  {
+    "station_id": "S-RAB-060",
+    "name": "Station Souissi 60",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "tourisme",
+    "capacity": 31,
+    "latitude": 33.997996,
+    "longitude": -6.843745
+  },
+  {
+    "station_id": "S-RAB-061",
+    "name": "Station Agdal 61",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "gare",
+    "capacity": 38,
+    "latitude": 34.057687,
+    "longitude": -6.822723
+  },
+  {
+    "station_id": "S-RAB-062",
+    "name": "Station Hassan 62",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "universite",
+    "capacity": 31,
+    "latitude": 33.987684,
+    "longitude": -6.840364
+  },
+  {
+    "station_id": "S-RAB-063",
+    "name": "Station Hay Riad 63",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "plage",
+    "capacity": 30,
+    "latitude": 34.030441,
+    "longitude": -6.874129
+  },
+  {
+    "station_id": "S-RAB-064",
+    "name": "Station Souissi 64",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "centre_affaires",
+    "capacity": 40,
+    "latitude": 34.040991,
+    "longitude": -6.827776
+  },
+  {
+    "station_id": "S-RAB-065",
+    "name": "Station Agdal 65",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "residentiel",
+    "capacity": 17,
+    "latitude": 34.045425,
+    "longitude": -6.869812
+  },
+  {
+    "station_id": "S-RAB-066",
+    "name": "Station Hassan 66",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "tourisme",
+    "capacity": 11,
+    "latitude": 34.000487,
+    "longitude": -6.843589
+  },
+  {
+    "station_id": "S-RAB-067",
+    "name": "Station Hay Riad 67",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "gare",
+    "capacity": 37,
+    "latitude": 34.042379,
+    "longitude": -6.845167
+  },
+  {
+    "station_id": "S-RAB-068",
+    "name": "Station Souissi 68",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "universite",
+    "capacity": 38,
+    "latitude": 34.031281,
+    "longitude": -6.866045
+  },
+  {
+    "station_id": "S-RAB-069",
+    "name": "Station Agdal 69",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "plage",
+    "capacity": 32,
+    "latitude": 34.011618,
+    "longitude": -6.849628
+  },
+  {
+    "station_id": "S-RAB-070",
+    "name": "Station Hassan 70",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "centre_affaires",
+    "capacity": 14,
+    "latitude": 34.033385,
+    "longitude": -6.881156
+  },
+  {
+    "station_id": "S-RAB-071",
+    "name": "Station Hay Riad 71",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "residentiel",
+    "capacity": 34,
+    "latitude": 34.049735,
+    "longitude": -6.810763
+  },
+  {
+    "station_id": "S-RAB-072",
+    "name": "Station Souissi 72",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "tourisme",
+    "capacity": 34,
+    "latitude": 34.014912,
+    "longitude": -6.867529
+  },
+  {
+    "station_id": "S-RAB-073",
+    "name": "Station Agdal 73",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "gare",
+    "capacity": 40,
+    "latitude": 34.036573,
+    "longitude": -6.844436
+  },
+  {
+    "station_id": "S-RAB-074",
+    "name": "Station Hassan 74",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "universite",
+    "capacity": 27,
+    "latitude": 34.000836,
+    "longitude": -6.813733
+  },
+  {
+    "station_id": "S-RAB-075",
+    "name": "Station Hay Riad 75",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "plage",
+    "capacity": 24,
+    "latitude": 33.991567,
+    "longitude": -6.844429
+  },
+  {
+    "station_id": "S-RAB-076",
+    "name": "Station Souissi 76",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "centre_affaires",
+    "capacity": 26,
+    "latitude": 34.059931,
+    "longitude": -6.833964
+  },
+  {
+    "station_id": "S-RAB-077",
+    "name": "Station Agdal 77",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "residentiel",
+    "capacity": 40,
+    "latitude": 34.04132,
+    "longitude": -6.846194
+  },
+  {
+    "station_id": "S-RAB-078",
+    "name": "Station Hassan 78",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "tourisme",
+    "capacity": 36,
+    "latitude": 34.038442,
+    "longitude": -6.841218
+  },
+  {
+    "station_id": "S-RAB-079",
+    "name": "Station Hay Riad 79",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "gare",
+    "capacity": 36,
+    "latitude": 34.053448,
+    "longitude": -6.845927
+  },
+  {
+    "station_id": "S-RAB-080",
+    "name": "Station Souissi 80",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "universite",
+    "capacity": 15,
+    "latitude": 34.040392,
+    "longitude": -6.843626
+  },
+  {
+    "station_id": "S-RAB-081",
+    "name": "Station Agdal 81",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "plage",
+    "capacity": 18,
+    "latitude": 34.041042,
+    "longitude": -6.814411
+  },
+  {
+    "station_id": "S-RAB-082",
+    "name": "Station Hassan 82",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "centre_affaires",
+    "capacity": 18,
+    "latitude": 34.042165,
+    "longitude": -6.839896
+  },
+  {
+    "station_id": "S-RAB-083",
+    "name": "Station Hay Riad 83",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "residentiel",
+    "capacity": 30,
+    "latitude": 34.00004,
+    "longitude": -6.84641
+  },
+  {
+    "station_id": "S-RAB-084",
+    "name": "Station Souissi 84",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "tourisme",
+    "capacity": 32,
+    "latitude": 34.003758,
+    "longitude": -6.859863
+  },
+  {
+    "station_id": "S-RAB-085",
+    "name": "Station Agdal 85",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "gare",
+    "capacity": 20,
+    "latitude": 34.052342,
+    "longitude": -6.875154
+  },
+  {
+    "station_id": "S-RAB-086",
+    "name": "Station Hassan 86",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "universite",
+    "capacity": 14,
+    "latitude": 33.999401,
+    "longitude": -6.826084
+  },
+  {
+    "station_id": "S-RAB-087",
+    "name": "Station Hay Riad 87",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "plage",
+    "capacity": 32,
+    "latitude": 33.998016,
+    "longitude": -6.848411
+  },
+  {
+    "station_id": "S-RAB-088",
+    "name": "Station Souissi 88",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "centre_affaires",
+    "capacity": 20,
+    "latitude": 34.024309,
+    "longitude": -6.848338
+  },
+  {
+    "station_id": "S-RAB-089",
+    "name": "Station Agdal 89",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "residentiel",
+    "capacity": 16,
+    "latitude": 34.047531,
+    "longitude": -6.850442
+  },
+  {
+    "station_id": "S-RAB-090",
+    "name": "Station Hassan 90",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "tourisme",
+    "capacity": 34,
+    "latitude": 34.027626,
+    "longitude": -6.825958
+  },
+  {
+    "station_id": "S-RAB-091",
+    "name": "Station Hay Riad 91",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "gare",
+    "capacity": 37,
+    "latitude": 34.051353,
+    "longitude": -6.835545
+  },
+  {
+    "station_id": "S-RAB-092",
+    "name": "Station Souissi 92",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "universite",
+    "capacity": 25,
+    "latitude": 33.981372,
+    "longitude": -6.853459
+  },
+  {
+    "station_id": "S-RAB-093",
+    "name": "Station Agdal 93",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "plage",
+    "capacity": 34,
+    "latitude": 34.012099,
+    "longitude": -6.810269
+  },
+  {
+    "station_id": "S-RAB-094",
+    "name": "Station Hassan 94",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "centre_affaires",
+    "capacity": 36,
+    "latitude": 34.014422,
+    "longitude": -6.821799
+  },
+  {
+    "station_id": "S-RAB-095",
+    "name": "Station Hay Riad 95",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "residentiel",
+    "capacity": 27,
+    "latitude": 34.044889,
+    "longitude": -6.809775
+  },
+  {
+    "station_id": "S-RAB-096",
+    "name": "Station Souissi 96",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "tourisme",
+    "capacity": 25,
+    "latitude": 33.998454,
+    "longitude": -6.846733
+  },
+  {
+    "station_id": "S-RAB-097",
+    "name": "Station Agdal 97",
+    "city": "Rabat",
+    "district": "Agdal",
+    "zone_type": "gare",
+    "capacity": 10,
+    "latitude": 34.012009,
+    "longitude": -6.82809
+  },
+  {
+    "station_id": "S-RAB-098",
+    "name": "Station Hassan 98",
+    "city": "Rabat",
+    "district": "Hassan",
+    "zone_type": "universite",
+    "capacity": 35,
+    "latitude": 34.013245,
+    "longitude": -6.868396
+  },
+  {
+    "station_id": "S-RAB-099",
+    "name": "Station Hay Riad 99",
+    "city": "Rabat",
+    "district": "Hay Riad",
+    "zone_type": "plage",
+    "capacity": 24,
+    "latitude": 34.054463,
+    "longitude": -6.803142
+  },
+  {
+    "station_id": "S-RAB-100",
+    "name": "Station Souissi 100",
+    "city": "Rabat",
+    "district": "Souissi",
+    "zone_type": "centre_affaires",
+    "capacity": 27,
+    "latitude": 33.983057,
+    "longitude": -6.850078
+  },
+  {
+    "station_id": "S-MAR-001",
+    "name": "Station Gueliz 1",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "gare",
+    "capacity": 28,
+    "latitude": 31.64254,
+    "longitude": -8.014384
+  },
+  {
+    "station_id": "S-MAR-002",
+    "name": "Station Medina 2",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "universite",
+    "capacity": 23,
+    "latitude": 31.600356,
+    "longitude": -7.984164
+  },
+  {
+    "station_id": "S-MAR-003",
+    "name": "Station Hivernage 3",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "plage",
+    "capacity": 11,
+    "latitude": 31.610313,
+    "longitude": -7.994912
+  },
+  {
+    "station_id": "S-MAR-004",
+    "name": "Station Menara 4",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "centre_affaires",
+    "capacity": 24,
+    "latitude": 31.615648,
+    "longitude": -7.960202
+  },
+  {
+    "station_id": "S-MAR-005",
+    "name": "Station Gueliz 5",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "residentiel",
+    "capacity": 22,
+    "latitude": 31.611761,
+    "longitude": -7.945004
+  },
+  {
+    "station_id": "S-MAR-006",
+    "name": "Station Medina 6",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "tourisme",
+    "capacity": 23,
+    "latitude": 31.609682,
+    "longitude": -8.014548
+  },
+  {
+    "station_id": "S-MAR-007",
+    "name": "Station Hivernage 7",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "gare",
+    "capacity": 10,
+    "latitude": 31.649422,
+    "longitude": -8.016933
+  },
+  {
+    "station_id": "S-MAR-008",
+    "name": "Station Menara 8",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "universite",
+    "capacity": 40,
+    "latitude": 31.617497,
+    "longitude": -7.969088
+  },
+  {
+    "station_id": "S-MAR-009",
+    "name": "Station Gueliz 9",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "plage",
+    "capacity": 34,
+    "latitude": 31.666083,
+    "longitude": -8.017879
+  },
+  {
+    "station_id": "S-MAR-010",
+    "name": "Station Medina 10",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "centre_affaires",
+    "capacity": 10,
+    "latitude": 31.665469,
+    "longitude": -8.005151
+  },
+  {
+    "station_id": "S-MAR-011",
+    "name": "Station Hivernage 11",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "residentiel",
+    "capacity": 10,
+    "latitude": 31.639207,
+    "longitude": -8.002016
+  },
+  {
+    "station_id": "S-MAR-012",
+    "name": "Station Menara 12",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "tourisme",
+    "capacity": 25,
+    "latitude": 31.643057,
+    "longitude": -7.975982
+  },
+  {
+    "station_id": "S-MAR-013",
+    "name": "Station Gueliz 13",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "gare",
+    "capacity": 16,
+    "latitude": 31.626703,
+    "longitude": -8.000601
+  },
+  {
+    "station_id": "S-MAR-014",
+    "name": "Station Medina 14",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "universite",
+    "capacity": 21,
+    "latitude": 31.602923,
+    "longitude": -7.97252
+  },
+  {
+    "station_id": "S-MAR-015",
+    "name": "Station Hivernage 15",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "plage",
+    "capacity": 33,
+    "latitude": 31.646969,
+    "longitude": -7.958877
+  },
+  {
+    "station_id": "S-MAR-016",
+    "name": "Station Menara 16",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "centre_affaires",
+    "capacity": 15,
+    "latitude": 31.666678,
+    "longitude": -8.012452
+  },
+  {
+    "station_id": "S-MAR-017",
+    "name": "Station Gueliz 17",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "residentiel",
+    "capacity": 10,
+    "latitude": 31.663811,
+    "longitude": -7.975036
+  },
+  {
+    "station_id": "S-MAR-018",
+    "name": "Station Medina 18",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "tourisme",
+    "capacity": 39,
+    "latitude": 31.666154,
+    "longitude": -7.989368
+  },
+  {
+    "station_id": "S-MAR-019",
+    "name": "Station Hivernage 19",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "gare",
+    "capacity": 32,
+    "latitude": 31.605366,
+    "longitude": -7.973732
+  },
+  {
+    "station_id": "S-MAR-020",
+    "name": "Station Menara 20",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "universite",
+    "capacity": 36,
+    "latitude": 31.639679,
+    "longitude": -8.012948
+  },
+  {
+    "station_id": "S-MAR-021",
+    "name": "Station Gueliz 21",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "plage",
+    "capacity": 34,
+    "latitude": 31.613627,
+    "longitude": -7.966359
+  },
+  {
+    "station_id": "S-MAR-022",
+    "name": "Station Medina 22",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "centre_affaires",
+    "capacity": 35,
+    "latitude": 31.599184,
+    "longitude": -7.942392
+  },
+  {
+    "station_id": "S-MAR-023",
+    "name": "Station Hivernage 23",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "residentiel",
+    "capacity": 35,
+    "latitude": 31.592786,
+    "longitude": -7.97848
+  },
+  {
+    "station_id": "S-MAR-024",
+    "name": "Station Menara 24",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "tourisme",
+    "capacity": 31,
+    "latitude": 31.619146,
+    "longitude": -7.980623
+  },
+  {
+    "station_id": "S-MAR-025",
+    "name": "Station Gueliz 25",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "gare",
+    "capacity": 20,
+    "latitude": 31.590512,
+    "longitude": -7.987495
+  },
+  {
+    "station_id": "S-MAR-026",
+    "name": "Station Medina 26",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "universite",
+    "capacity": 25,
+    "latitude": 31.597943,
+    "longitude": -7.944237
+  },
+  {
+    "station_id": "S-MAR-027",
+    "name": "Station Hivernage 27",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "plage",
+    "capacity": 30,
+    "latitude": 31.660826,
+    "longitude": -7.984321
+  },
+  {
+    "station_id": "S-MAR-028",
+    "name": "Station Menara 28",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "centre_affaires",
+    "capacity": 14,
+    "latitude": 31.624339,
+    "longitude": -7.962396
+  },
+  {
+    "station_id": "S-MAR-029",
+    "name": "Station Gueliz 29",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "residentiel",
+    "capacity": 40,
+    "latitude": 31.641537,
+    "longitude": -7.971827
+  },
+  {
+    "station_id": "S-MAR-030",
+    "name": "Station Medina 30",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "tourisme",
+    "capacity": 39,
+    "latitude": 31.632554,
+    "longitude": -7.98242
+  },
+  {
+    "station_id": "S-MAR-031",
+    "name": "Station Hivernage 31",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "gare",
+    "capacity": 23,
+    "latitude": 31.655559,
+    "longitude": -7.973702
+  },
+  {
+    "station_id": "S-MAR-032",
+    "name": "Station Menara 32",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "universite",
+    "capacity": 20,
+    "latitude": 31.657637,
+    "longitude": -7.954642
+  },
+  {
+    "station_id": "S-MAR-033",
+    "name": "Station Gueliz 33",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "plage",
+    "capacity": 12,
+    "latitude": 31.611814,
+    "longitude": -7.985036
+  },
+  {
+    "station_id": "S-MAR-034",
+    "name": "Station Medina 34",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "centre_affaires",
+    "capacity": 34,
+    "latitude": 31.626677,
+    "longitude": -7.972273
+  },
+  {
+    "station_id": "S-MAR-035",
+    "name": "Station Hivernage 35",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "residentiel",
+    "capacity": 22,
+    "latitude": 31.616412,
+    "longitude": -7.981555
+  },
+  {
+    "station_id": "S-MAR-036",
+    "name": "Station Menara 36",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "tourisme",
+    "capacity": 20,
+    "latitude": 31.604047,
+    "longitude": -8.00413
+  },
+  {
+    "station_id": "S-MAR-037",
+    "name": "Station Gueliz 37",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "gare",
+    "capacity": 35,
+    "latitude": 31.610168,
+    "longitude": -7.998727
+  },
+  {
+    "station_id": "S-MAR-038",
+    "name": "Station Medina 38",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "universite",
+    "capacity": 29,
+    "latitude": 31.645595,
+    "longitude": -7.998999
+  },
+  {
+    "station_id": "S-MAR-039",
+    "name": "Station Hivernage 39",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "plage",
+    "capacity": 10,
+    "latitude": 31.63083,
+    "longitude": -8.005815
+  },
+  {
+    "station_id": "S-MAR-040",
+    "name": "Station Menara 40",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "centre_affaires",
+    "capacity": 17,
+    "latitude": 31.647106,
+    "longitude": -7.982014
+  },
+  {
+    "station_id": "S-MAR-041",
+    "name": "Station Gueliz 41",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "residentiel",
+    "capacity": 34,
+    "latitude": 31.608726,
+    "longitude": -7.983013
+  },
+  {
+    "station_id": "S-MAR-042",
+    "name": "Station Medina 42",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "tourisme",
+    "capacity": 32,
+    "latitude": 31.628766,
+    "longitude": -7.957665
+  },
+  {
+    "station_id": "S-MAR-043",
+    "name": "Station Hivernage 43",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "gare",
+    "capacity": 12,
+    "latitude": 31.613039,
+    "longitude": -7.988748
+  },
+  {
+    "station_id": "S-MAR-044",
+    "name": "Station Menara 44",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "universite",
+    "capacity": 17,
+    "latitude": 31.613996,
+    "longitude": -7.974576
+  },
+  {
+    "station_id": "S-MAR-045",
+    "name": "Station Gueliz 45",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "plage",
+    "capacity": 25,
+    "latitude": 31.633778,
+    "longitude": -7.993599
+  },
+  {
+    "station_id": "S-MAR-046",
+    "name": "Station Medina 46",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "centre_affaires",
+    "capacity": 33,
+    "latitude": 31.633531,
+    "longitude": -7.992955
+  },
+  {
+    "station_id": "S-MAR-047",
+    "name": "Station Hivernage 47",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "residentiel",
+    "capacity": 24,
+    "latitude": 31.611173,
+    "longitude": -8.000988
+  },
+  {
+    "station_id": "S-MAR-048",
+    "name": "Station Menara 48",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "tourisme",
+    "capacity": 13,
+    "latitude": 31.647203,
+    "longitude": -7.995856
+  },
+  {
+    "station_id": "S-MAR-049",
+    "name": "Station Gueliz 49",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "gare",
+    "capacity": 33,
+    "latitude": 31.632369,
+    "longitude": -7.960125
+  },
+  {
+    "station_id": "S-MAR-050",
+    "name": "Station Medina 50",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "universite",
+    "capacity": 15,
+    "latitude": 31.604823,
+    "longitude": -7.962012
+  },
+  {
+    "station_id": "S-MAR-051",
+    "name": "Station Hivernage 51",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "plage",
+    "capacity": 18,
+    "latitude": 31.647467,
+    "longitude": -7.942971
+  },
+  {
+    "station_id": "S-MAR-052",
+    "name": "Station Menara 52",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "centre_affaires",
+    "capacity": 26,
+    "latitude": 31.637243,
+    "longitude": -7.942659
+  },
+  {
+    "station_id": "S-MAR-053",
+    "name": "Station Gueliz 53",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "residentiel",
+    "capacity": 36,
+    "latitude": 31.605029,
+    "longitude": -8.002901
+  },
+  {
+    "station_id": "S-MAR-054",
+    "name": "Station Medina 54",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "tourisme",
+    "capacity": 15,
+    "latitude": 31.613681,
+    "longitude": -7.964459
+  },
+  {
+    "station_id": "S-MAR-055",
+    "name": "Station Hivernage 55",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "gare",
+    "capacity": 14,
+    "latitude": 31.611445,
+    "longitude": -7.943156
+  },
+  {
+    "station_id": "S-MAR-056",
+    "name": "Station Menara 56",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "universite",
+    "capacity": 27,
+    "latitude": 31.612871,
+    "longitude": -7.945573
+  },
+  {
+    "station_id": "S-MAR-057",
+    "name": "Station Gueliz 57",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "plage",
+    "capacity": 30,
+    "latitude": 31.658977,
+    "longitude": -7.98183
+  },
+  {
+    "station_id": "S-MAR-058",
+    "name": "Station Medina 58",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "centre_affaires",
+    "capacity": 37,
+    "latitude": 31.590481,
+    "longitude": -7.998353
+  },
+  {
+    "station_id": "S-MAR-059",
+    "name": "Station Hivernage 59",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "residentiel",
+    "capacity": 25,
+    "latitude": 31.624738,
+    "longitude": -8.006351
+  },
+  {
+    "station_id": "S-MAR-060",
+    "name": "Station Menara 60",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "tourisme",
+    "capacity": 11,
+    "latitude": 31.609698,
+    "longitude": -7.952162
+  },
+  {
+    "station_id": "S-MAR-061",
+    "name": "Station Gueliz 61",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "gare",
+    "capacity": 13,
+    "latitude": 31.655269,
+    "longitude": -7.989043
+  },
+  {
+    "station_id": "S-MAR-062",
+    "name": "Station Medina 62",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "universite",
+    "capacity": 12,
+    "latitude": 31.635662,
+    "longitude": -7.966184
+  },
+  {
+    "station_id": "S-MAR-063",
+    "name": "Station Hivernage 63",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "plage",
+    "capacity": 14,
+    "latitude": 31.601436,
+    "longitude": -7.976073
+  },
+  {
+    "station_id": "S-MAR-064",
+    "name": "Station Menara 64",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "centre_affaires",
+    "capacity": 19,
+    "latitude": 31.596314,
+    "longitude": -8.001245
+  },
+  {
+    "station_id": "S-MAR-065",
+    "name": "Station Gueliz 65",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "residentiel",
+    "capacity": 27,
+    "latitude": 31.650655,
+    "longitude": -7.972595
+  },
+  {
+    "station_id": "S-MAR-066",
+    "name": "Station Medina 66",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "tourisme",
+    "capacity": 35,
+    "latitude": 31.638973,
+    "longitude": -7.959045
+  },
+  {
+    "station_id": "S-MAR-067",
+    "name": "Station Hivernage 67",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "gare",
+    "capacity": 22,
+    "latitude": 31.625541,
+    "longitude": -7.985682
+  },
+  {
+    "station_id": "S-MAR-068",
+    "name": "Station Menara 68",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "universite",
+    "capacity": 37,
+    "latitude": 31.636582,
+    "longitude": -7.986794
+  },
+  {
+    "station_id": "S-MAR-069",
+    "name": "Station Gueliz 69",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "plage",
+    "capacity": 28,
+    "latitude": 31.639182,
+    "longitude": -7.97233
+  },
+  {
+    "station_id": "S-MAR-070",
+    "name": "Station Medina 70",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "centre_affaires",
+    "capacity": 33,
+    "latitude": 31.597439,
+    "longitude": -7.960081
+  },
+  {
+    "station_id": "S-MAR-071",
+    "name": "Station Hivernage 71",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "residentiel",
+    "capacity": 30,
+    "latitude": 31.606382,
+    "longitude": -7.968266
+  },
+  {
+    "station_id": "S-MAR-072",
+    "name": "Station Menara 72",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "tourisme",
+    "capacity": 15,
+    "latitude": 31.608689,
+    "longitude": -7.976941
+  },
+  {
+    "station_id": "S-MAR-073",
+    "name": "Station Gueliz 73",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "gare",
+    "capacity": 15,
+    "latitude": 31.589714,
+    "longitude": -7.98506
+  },
+  {
+    "station_id": "S-MAR-074",
+    "name": "Station Medina 74",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "universite",
+    "capacity": 29,
+    "latitude": 31.627093,
+    "longitude": -8.018489
+  },
+  {
+    "station_id": "S-MAR-075",
+    "name": "Station Hivernage 75",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "plage",
+    "capacity": 19,
+    "latitude": 31.646056,
+    "longitude": -7.964861
+  },
+  {
+    "station_id": "S-MAR-076",
+    "name": "Station Menara 76",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "centre_affaires",
+    "capacity": 24,
+    "latitude": 31.595194,
+    "longitude": -8.002426
+  },
+  {
+    "station_id": "S-MAR-077",
+    "name": "Station Gueliz 77",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "residentiel",
+    "capacity": 18,
+    "latitude": 31.652526,
+    "longitude": -7.971095
+  },
+  {
+    "station_id": "S-MAR-078",
+    "name": "Station Medina 78",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "tourisme",
+    "capacity": 31,
+    "latitude": 31.653812,
+    "longitude": -8.005274
+  },
+  {
+    "station_id": "S-MAR-079",
+    "name": "Station Hivernage 79",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "gare",
+    "capacity": 13,
+    "latitude": 31.633065,
+    "longitude": -7.969289
+  },
+  {
+    "station_id": "S-MAR-080",
+    "name": "Station Menara 80",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "universite",
+    "capacity": 39,
+    "latitude": 31.610751,
+    "longitude": -8.009721
+  },
+  {
+    "station_id": "S-MAR-081",
+    "name": "Station Gueliz 81",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "plage",
+    "capacity": 11,
+    "latitude": 31.602774,
+    "longitude": -7.996491
+  },
+  {
+    "station_id": "S-MAR-082",
+    "name": "Station Medina 82",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "centre_affaires",
+    "capacity": 33,
+    "latitude": 31.655439,
+    "longitude": -7.947405
+  },
+  {
+    "station_id": "S-MAR-083",
+    "name": "Station Hivernage 83",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "residentiel",
+    "capacity": 24,
+    "latitude": 31.599448,
+    "longitude": -7.966006
+  },
+  {
+    "station_id": "S-MAR-084",
+    "name": "Station Menara 84",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "tourisme",
+    "capacity": 32,
+    "latitude": 31.621701,
+    "longitude": -7.99932
+  },
+  {
+    "station_id": "S-MAR-085",
+    "name": "Station Gueliz 85",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "gare",
+    "capacity": 27,
+    "latitude": 31.629004,
+    "longitude": -8.014665
+  },
+  {
+    "station_id": "S-MAR-086",
+    "name": "Station Medina 86",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "universite",
+    "capacity": 11,
+    "latitude": 31.660654,
+    "longitude": -7.962337
+  },
+  {
+    "station_id": "S-MAR-087",
+    "name": "Station Hivernage 87",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "plage",
+    "capacity": 29,
+    "latitude": 31.609529,
+    "longitude": -8.013794
+  },
+  {
+    "station_id": "S-MAR-088",
+    "name": "Station Menara 88",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "centre_affaires",
+    "capacity": 40,
+    "latitude": 31.643444,
+    "longitude": -7.952259
+  },
+  {
+    "station_id": "S-MAR-089",
+    "name": "Station Gueliz 89",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "residentiel",
+    "capacity": 28,
+    "latitude": 31.665563,
+    "longitude": -7.941134
+  },
+  {
+    "station_id": "S-MAR-090",
+    "name": "Station Medina 90",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "tourisme",
+    "capacity": 31,
+    "latitude": 31.655214,
+    "longitude": -7.975
+  },
+  {
+    "station_id": "S-MAR-091",
+    "name": "Station Hivernage 91",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "gare",
+    "capacity": 34,
+    "latitude": 31.650002,
+    "longitude": -7.98346
+  },
+  {
+    "station_id": "S-MAR-092",
+    "name": "Station Menara 92",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "universite",
+    "capacity": 30,
+    "latitude": 31.624878,
+    "longitude": -7.998847
+  },
+  {
+    "station_id": "S-MAR-093",
+    "name": "Station Gueliz 93",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "plage",
+    "capacity": 28,
+    "latitude": 31.624371,
+    "longitude": -7.95596
+  },
+  {
+    "station_id": "S-MAR-094",
+    "name": "Station Medina 94",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "centre_affaires",
+    "capacity": 12,
+    "latitude": 31.627101,
+    "longitude": -7.988432
+  },
+  {
+    "station_id": "S-MAR-095",
+    "name": "Station Hivernage 95",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "residentiel",
+    "capacity": 20,
+    "latitude": 31.643111,
+    "longitude": -7.952481
+  },
+  {
+    "station_id": "S-MAR-096",
+    "name": "Station Menara 96",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "tourisme",
+    "capacity": 20,
+    "latitude": 31.622432,
+    "longitude": -7.981462
+  },
+  {
+    "station_id": "S-MAR-097",
+    "name": "Station Gueliz 97",
+    "city": "Marrakech",
+    "district": "Gueliz",
+    "zone_type": "gare",
+    "capacity": 31,
+    "latitude": 31.665115,
+    "longitude": -7.956015
+  },
+  {
+    "station_id": "S-MAR-098",
+    "name": "Station Medina 98",
+    "city": "Marrakech",
+    "district": "Medina",
+    "zone_type": "universite",
+    "capacity": 27,
+    "latitude": 31.592436,
+    "longitude": -8.014055
+  },
+  {
+    "station_id": "S-MAR-099",
+    "name": "Station Hivernage 99",
+    "city": "Marrakech",
+    "district": "Hivernage",
+    "zone_type": "plage",
+    "capacity": 18,
+    "latitude": 31.615362,
+    "longitude": -7.943485
+  },
+  {
+    "station_id": "S-MAR-100",
+    "name": "Station Menara 100",
+    "city": "Marrakech",
+    "district": "Menara",
+    "zone_type": "centre_affaires",
+    "capacity": 22,
+    "latitude": 31.658693,
+    "longitude": -7.955106
+  },
+  {
+    "station_id": "S-TAN-001",
+    "name": "Station Malabata 1",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "gare",
+    "capacity": 10,
+    "latitude": 35.772113,
+    "longitude": -5.830593
+  },
+  {
+    "station_id": "S-TAN-002",
+    "name": "Station Centre 2",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "universite",
+    "capacity": 23,
+    "latitude": 35.723836,
+    "longitude": -5.832525
+  },
+  {
+    "station_id": "S-TAN-003",
+    "name": "Station Iberia 3",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "plage",
+    "capacity": 29,
+    "latitude": 35.780015,
+    "longitude": -5.823967
+  },
+  {
+    "station_id": "S-TAN-004",
+    "name": "Station Boukhalef 4",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "centre_affaires",
+    "capacity": 34,
+    "latitude": 35.723629,
+    "longitude": -5.852636
+  },
+  {
+    "station_id": "S-TAN-005",
+    "name": "Station Malabata 5",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "residentiel",
+    "capacity": 14,
+    "latitude": 35.793714,
+    "longitude": -5.838951
+  },
+  {
+    "station_id": "S-TAN-006",
+    "name": "Station Centre 6",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "tourisme",
+    "capacity": 32,
+    "latitude": 35.758277,
+    "longitude": -5.87169
+  },
+  {
+    "station_id": "S-TAN-007",
+    "name": "Station Iberia 7",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "gare",
+    "capacity": 30,
+    "latitude": 35.76821,
+    "longitude": -5.854856
+  },
+  {
+    "station_id": "S-TAN-008",
+    "name": "Station Boukhalef 8",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "universite",
+    "capacity": 15,
+    "latitude": 35.74436,
+    "longitude": -5.872906
+  },
+  {
+    "station_id": "S-TAN-009",
+    "name": "Station Malabata 9",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "plage",
+    "capacity": 23,
+    "latitude": 35.726957,
+    "longitude": -5.794619
+  },
+  {
+    "station_id": "S-TAN-010",
+    "name": "Station Centre 10",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "centre_affaires",
+    "capacity": 39,
+    "latitude": 35.728577,
+    "longitude": -5.798235
+  },
+  {
+    "station_id": "S-TAN-011",
+    "name": "Station Iberia 11",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "residentiel",
+    "capacity": 30,
+    "latitude": 35.786071,
+    "longitude": -5.83413
+  },
+  {
+    "station_id": "S-TAN-012",
+    "name": "Station Boukhalef 12",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "tourisme",
+    "capacity": 32,
+    "latitude": 35.742849,
+    "longitude": -5.817567
+  },
+  {
+    "station_id": "S-TAN-013",
+    "name": "Station Malabata 13",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "gare",
+    "capacity": 23,
+    "latitude": 35.786278,
+    "longitude": -5.79558
+  },
+  {
+    "station_id": "S-TAN-014",
+    "name": "Station Centre 14",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "universite",
+    "capacity": 17,
+    "latitude": 35.756043,
+    "longitude": -5.862429
+  },
+  {
+    "station_id": "S-TAN-015",
+    "name": "Station Iberia 15",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "plage",
+    "capacity": 16,
+    "latitude": 35.793249,
+    "longitude": -5.833341
+  },
+  {
+    "station_id": "S-TAN-016",
+    "name": "Station Boukhalef 16",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "centre_affaires",
+    "capacity": 38,
+    "latitude": 35.730421,
+    "longitude": -5.868415
+  },
+  {
+    "station_id": "S-TAN-017",
+    "name": "Station Malabata 17",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "residentiel",
+    "capacity": 34,
+    "latitude": 35.7827,
+    "longitude": -5.840805
+  },
+  {
+    "station_id": "S-TAN-018",
+    "name": "Station Centre 18",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "tourisme",
+    "capacity": 39,
+    "latitude": 35.782517,
+    "longitude": -5.852626
+  },
+  {
+    "station_id": "S-TAN-019",
+    "name": "Station Iberia 19",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "gare",
+    "capacity": 10,
+    "latitude": 35.742127,
+    "longitude": -5.850116
+  },
+  {
+    "station_id": "S-TAN-020",
+    "name": "Station Boukhalef 20",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "universite",
+    "capacity": 28,
+    "latitude": 35.765894,
+    "longitude": -5.821205
+  },
+  {
+    "station_id": "S-TAN-021",
+    "name": "Station Malabata 21",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "plage",
+    "capacity": 37,
+    "latitude": 35.731388,
+    "longitude": -5.830914
+  },
+  {
+    "station_id": "S-TAN-022",
+    "name": "Station Centre 22",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "centre_affaires",
+    "capacity": 21,
+    "latitude": 35.746095,
+    "longitude": -5.81297
+  },
+  {
+    "station_id": "S-TAN-023",
+    "name": "Station Iberia 23",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "residentiel",
+    "capacity": 22,
+    "latitude": 35.755928,
+    "longitude": -5.848258
+  },
+  {
+    "station_id": "S-TAN-024",
+    "name": "Station Boukhalef 24",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "tourisme",
+    "capacity": 16,
+    "latitude": 35.797962,
+    "longitude": -5.854896
+  },
+  {
+    "station_id": "S-TAN-025",
+    "name": "Station Malabata 25",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "gare",
+    "capacity": 22,
+    "latitude": 35.738185,
+    "longitude": -5.811956
+  },
+  {
+    "station_id": "S-TAN-026",
+    "name": "Station Centre 26",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "universite",
+    "capacity": 11,
+    "latitude": 35.744954,
+    "longitude": -5.836162
+  },
+  {
+    "station_id": "S-TAN-027",
+    "name": "Station Iberia 27",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "plage",
+    "capacity": 39,
+    "latitude": 35.784413,
+    "longitude": -5.843114
+  },
+  {
+    "station_id": "S-TAN-028",
+    "name": "Station Boukhalef 28",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "centre_affaires",
+    "capacity": 31,
+    "latitude": 35.782891,
+    "longitude": -5.821838
+  },
+  {
+    "station_id": "S-TAN-029",
+    "name": "Station Malabata 29",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "residentiel",
+    "capacity": 14,
+    "latitude": 35.759126,
+    "longitude": -5.871038
+  },
+  {
+    "station_id": "S-TAN-030",
+    "name": "Station Centre 30",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "tourisme",
+    "capacity": 26,
+    "latitude": 35.796728,
+    "longitude": -5.84744
+  },
+  {
+    "station_id": "S-TAN-031",
+    "name": "Station Iberia 31",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "gare",
+    "capacity": 13,
+    "latitude": 35.789435,
+    "longitude": -5.838776
+  },
+  {
+    "station_id": "S-TAN-032",
+    "name": "Station Boukhalef 32",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "universite",
+    "capacity": 26,
+    "latitude": 35.792335,
+    "longitude": -5.872772
+  },
+  {
+    "station_id": "S-TAN-033",
+    "name": "Station Malabata 33",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "plage",
+    "capacity": 14,
+    "latitude": 35.752298,
+    "longitude": -5.821617
+  },
+  {
+    "station_id": "S-TAN-034",
+    "name": "Station Centre 34",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "centre_affaires",
+    "capacity": 14,
+    "latitude": 35.725486,
+    "longitude": -5.811478
+  },
+  {
+    "station_id": "S-TAN-035",
+    "name": "Station Iberia 35",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "residentiel",
+    "capacity": 18,
+    "latitude": 35.746585,
+    "longitude": -5.818584
+  },
+  {
+    "station_id": "S-TAN-036",
+    "name": "Station Boukhalef 36",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "tourisme",
+    "capacity": 30,
+    "latitude": 35.725925,
+    "longitude": -5.847715
+  },
+  {
+    "station_id": "S-TAN-037",
+    "name": "Station Malabata 37",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "gare",
+    "capacity": 31,
+    "latitude": 35.788247,
+    "longitude": -5.843599
+  },
+  {
+    "station_id": "S-TAN-038",
+    "name": "Station Centre 38",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "universite",
+    "capacity": 20,
+    "latitude": 35.769644,
+    "longitude": -5.803005
+  },
+  {
+    "station_id": "S-TAN-039",
+    "name": "Station Iberia 39",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "plage",
+    "capacity": 25,
+    "latitude": 35.789291,
+    "longitude": -5.871128
+  },
+  {
+    "station_id": "S-TAN-040",
+    "name": "Station Boukhalef 40",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "centre_affaires",
+    "capacity": 12,
+    "latitude": 35.738282,
+    "longitude": -5.819248
+  },
+  {
+    "station_id": "S-TAN-041",
+    "name": "Station Malabata 41",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "residentiel",
+    "capacity": 19,
+    "latitude": 35.799294,
+    "longitude": -5.814259
+  },
+  {
+    "station_id": "S-TAN-042",
+    "name": "Station Centre 42",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "tourisme",
+    "capacity": 23,
+    "latitude": 35.797767,
+    "longitude": -5.81317
+  },
+  {
+    "station_id": "S-TAN-043",
+    "name": "Station Iberia 43",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "gare",
+    "capacity": 32,
+    "latitude": 35.789306,
+    "longitude": -5.838506
+  },
+  {
+    "station_id": "S-TAN-044",
+    "name": "Station Boukhalef 44",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "universite",
+    "capacity": 32,
+    "latitude": 35.743457,
+    "longitude": -5.871684
+  },
+  {
+    "station_id": "S-TAN-045",
+    "name": "Station Malabata 45",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "plage",
+    "capacity": 20,
+    "latitude": 35.783191,
+    "longitude": -5.850531
+  },
+  {
+    "station_id": "S-TAN-046",
+    "name": "Station Centre 46",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "centre_affaires",
+    "capacity": 21,
+    "latitude": 35.753955,
+    "longitude": -5.854464
+  },
+  {
+    "station_id": "S-TAN-047",
+    "name": "Station Iberia 47",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "residentiel",
+    "capacity": 23,
+    "latitude": 35.764774,
+    "longitude": -5.810598
+  },
+  {
+    "station_id": "S-TAN-048",
+    "name": "Station Boukhalef 48",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "tourisme",
+    "capacity": 15,
+    "latitude": 35.733506,
+    "longitude": -5.825241
+  },
+  {
+    "station_id": "S-TAN-049",
+    "name": "Station Malabata 49",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "gare",
+    "capacity": 22,
+    "latitude": 35.769077,
+    "longitude": -5.854734
+  },
+  {
+    "station_id": "S-TAN-050",
+    "name": "Station Centre 50",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "universite",
+    "capacity": 39,
+    "latitude": 35.766153,
+    "longitude": -5.855425
+  },
+  {
+    "station_id": "S-TAN-051",
+    "name": "Station Iberia 51",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "plage",
+    "capacity": 30,
+    "latitude": 35.739818,
+    "longitude": -5.853574
+  },
+  {
+    "station_id": "S-TAN-052",
+    "name": "Station Boukhalef 52",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "centre_affaires",
+    "capacity": 10,
+    "latitude": 35.791413,
+    "longitude": -5.83678
+  },
+  {
+    "station_id": "S-TAN-053",
+    "name": "Station Malabata 53",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "residentiel",
+    "capacity": 19,
+    "latitude": 35.773709,
+    "longitude": -5.861362
+  },
+  {
+    "station_id": "S-TAN-054",
+    "name": "Station Centre 54",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "tourisme",
+    "capacity": 24,
+    "latitude": 35.795119,
+    "longitude": -5.794988
+  },
+  {
+    "station_id": "S-TAN-055",
+    "name": "Station Iberia 55",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "gare",
+    "capacity": 19,
+    "latitude": 35.770615,
+    "longitude": -5.840055
+  },
+  {
+    "station_id": "S-TAN-056",
+    "name": "Station Boukhalef 56",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "universite",
+    "capacity": 18,
+    "latitude": 35.756047,
+    "longitude": -5.84983
+  },
+  {
+    "station_id": "S-TAN-057",
+    "name": "Station Malabata 57",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "plage",
+    "capacity": 22,
+    "latitude": 35.787767,
+    "longitude": -5.865468
+  },
+  {
+    "station_id": "S-TAN-058",
+    "name": "Station Centre 58",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "centre_affaires",
+    "capacity": 22,
+    "latitude": 35.765254,
+    "longitude": -5.828015
+  },
+  {
+    "station_id": "S-TAN-059",
+    "name": "Station Iberia 59",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "residentiel",
+    "capacity": 32,
+    "latitude": 35.743118,
+    "longitude": -5.795764
+  },
+  {
+    "station_id": "S-TAN-060",
+    "name": "Station Boukhalef 60",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "tourisme",
+    "capacity": 31,
+    "latitude": 35.751164,
+    "longitude": -5.873352
+  },
+  {
+    "station_id": "S-TAN-061",
+    "name": "Station Malabata 61",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "gare",
+    "capacity": 37,
+    "latitude": 35.774364,
+    "longitude": -5.814426
+  },
+  {
+    "station_id": "S-TAN-062",
+    "name": "Station Centre 62",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "universite",
+    "capacity": 11,
+    "latitude": 35.792349,
+    "longitude": -5.814386
+  },
+  {
+    "station_id": "S-TAN-063",
+    "name": "Station Iberia 63",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "plage",
+    "capacity": 36,
+    "latitude": 35.791832,
+    "longitude": -5.851104
+  },
+  {
+    "station_id": "S-TAN-064",
+    "name": "Station Boukhalef 64",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "centre_affaires",
+    "capacity": 35,
+    "latitude": 35.737909,
+    "longitude": -5.809845
+  },
+  {
+    "station_id": "S-TAN-065",
+    "name": "Station Malabata 65",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "residentiel",
+    "capacity": 17,
+    "latitude": 35.770429,
+    "longitude": -5.824329
+  },
+  {
+    "station_id": "S-TAN-066",
+    "name": "Station Centre 66",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "tourisme",
+    "capacity": 31,
+    "latitude": 35.779946,
+    "longitude": -5.812602
+  },
+  {
+    "station_id": "S-TAN-067",
+    "name": "Station Iberia 67",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "gare",
+    "capacity": 31,
+    "latitude": 35.786567,
+    "longitude": -5.82374
+  },
+  {
+    "station_id": "S-TAN-068",
+    "name": "Station Boukhalef 68",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "universite",
+    "capacity": 38,
+    "latitude": 35.769697,
+    "longitude": -5.870846
+  },
+  {
+    "station_id": "S-TAN-069",
+    "name": "Station Malabata 69",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "plage",
+    "capacity": 35,
+    "latitude": 35.754766,
+    "longitude": -5.827634
+  },
+  {
+    "station_id": "S-TAN-070",
+    "name": "Station Centre 70",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "centre_affaires",
+    "capacity": 33,
+    "latitude": 35.730013,
+    "longitude": -5.80123
+  },
+  {
+    "station_id": "S-TAN-071",
+    "name": "Station Iberia 71",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "residentiel",
+    "capacity": 20,
+    "latitude": 35.779298,
+    "longitude": -5.859949
+  },
+  {
+    "station_id": "S-TAN-072",
+    "name": "Station Boukhalef 72",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "tourisme",
+    "capacity": 14,
+    "latitude": 35.782421,
+    "longitude": -5.803883
+  },
+  {
+    "station_id": "S-TAN-073",
+    "name": "Station Malabata 73",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "gare",
+    "capacity": 21,
+    "latitude": 35.761968,
+    "longitude": -5.800921
+  },
+  {
+    "station_id": "S-TAN-074",
+    "name": "Station Centre 74",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "universite",
+    "capacity": 36,
+    "latitude": 35.732664,
+    "longitude": -5.800876
+  },
+  {
+    "station_id": "S-TAN-075",
+    "name": "Station Iberia 75",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "plage",
+    "capacity": 40,
+    "latitude": 35.758048,
+    "longitude": -5.809481
+  },
+  {
+    "station_id": "S-TAN-076",
+    "name": "Station Boukhalef 76",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "centre_affaires",
+    "capacity": 33,
+    "latitude": 35.789132,
+    "longitude": -5.809661
+  },
+  {
+    "station_id": "S-TAN-077",
+    "name": "Station Malabata 77",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "residentiel",
+    "capacity": 24,
+    "latitude": 35.796531,
+    "longitude": -5.862739
+  },
+  {
+    "station_id": "S-TAN-078",
+    "name": "Station Centre 78",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "tourisme",
+    "capacity": 40,
+    "latitude": 35.737549,
+    "longitude": -5.819894
+  },
+  {
+    "station_id": "S-TAN-079",
+    "name": "Station Iberia 79",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "gare",
+    "capacity": 31,
+    "latitude": 35.797895,
+    "longitude": -5.796618
+  },
+  {
+    "station_id": "S-TAN-080",
+    "name": "Station Boukhalef 80",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "universite",
+    "capacity": 35,
+    "latitude": 35.764085,
+    "longitude": -5.866776
+  },
+  {
+    "station_id": "S-TAN-081",
+    "name": "Station Malabata 81",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "plage",
+    "capacity": 22,
+    "latitude": 35.720613,
+    "longitude": -5.831074
+  },
+  {
+    "station_id": "S-TAN-082",
+    "name": "Station Centre 82",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "centre_affaires",
+    "capacity": 24,
+    "latitude": 35.748987,
+    "longitude": -5.814079
+  },
+  {
+    "station_id": "S-TAN-083",
+    "name": "Station Iberia 83",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "residentiel",
+    "capacity": 18,
+    "latitude": 35.766265,
+    "longitude": -5.808207
+  },
+  {
+    "station_id": "S-TAN-084",
+    "name": "Station Boukhalef 84",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "tourisme",
+    "capacity": 40,
+    "latitude": 35.749218,
+    "longitude": -5.820013
+  },
+  {
+    "station_id": "S-TAN-085",
+    "name": "Station Malabata 85",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "gare",
+    "capacity": 25,
+    "latitude": 35.721502,
+    "longitude": -5.803261
+  },
+  {
+    "station_id": "S-TAN-086",
+    "name": "Station Centre 86",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "universite",
+    "capacity": 27,
+    "latitude": 35.745741,
+    "longitude": -5.825193
+  },
+  {
+    "station_id": "S-TAN-087",
+    "name": "Station Iberia 87",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "plage",
+    "capacity": 30,
+    "latitude": 35.724557,
+    "longitude": -5.808092
+  },
+  {
+    "station_id": "S-TAN-088",
+    "name": "Station Boukhalef 88",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "centre_affaires",
+    "capacity": 39,
+    "latitude": 35.775586,
+    "longitude": -5.822061
+  },
+  {
+    "station_id": "S-TAN-089",
+    "name": "Station Malabata 89",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "residentiel",
+    "capacity": 13,
+    "latitude": 35.730682,
+    "longitude": -5.798299
+  },
+  {
+    "station_id": "S-TAN-090",
+    "name": "Station Centre 90",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "tourisme",
+    "capacity": 19,
+    "latitude": 35.799174,
+    "longitude": -5.86471
+  },
+  {
+    "station_id": "S-TAN-091",
+    "name": "Station Iberia 91",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "gare",
+    "capacity": 17,
+    "latitude": 35.790481,
+    "longitude": -5.863147
+  },
+  {
+    "station_id": "S-TAN-092",
+    "name": "Station Boukhalef 92",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "universite",
+    "capacity": 24,
+    "latitude": 35.749181,
+    "longitude": -5.79805
+  },
+  {
+    "station_id": "S-TAN-093",
+    "name": "Station Malabata 93",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "plage",
+    "capacity": 32,
+    "latitude": 35.795178,
+    "longitude": -5.84047
+  },
+  {
+    "station_id": "S-TAN-094",
+    "name": "Station Centre 94",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "centre_affaires",
+    "capacity": 33,
+    "latitude": 35.777628,
+    "longitude": -5.803167
+  },
+  {
+    "station_id": "S-TAN-095",
+    "name": "Station Iberia 95",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "residentiel",
+    "capacity": 30,
+    "latitude": 35.727422,
+    "longitude": -5.834852
+  },
+  {
+    "station_id": "S-TAN-096",
+    "name": "Station Boukhalef 96",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "tourisme",
+    "capacity": 23,
+    "latitude": 35.794624,
+    "longitude": -5.851621
+  },
+  {
+    "station_id": "S-TAN-097",
+    "name": "Station Malabata 97",
+    "city": "Tanger",
+    "district": "Malabata",
+    "zone_type": "gare",
+    "capacity": 32,
+    "latitude": 35.749142,
+    "longitude": -5.838529
+  },
+  {
+    "station_id": "S-TAN-098",
+    "name": "Station Centre 98",
+    "city": "Tanger",
+    "district": "Centre",
+    "zone_type": "universite",
+    "capacity": 40,
+    "latitude": 35.738389,
+    "longitude": -5.844985
+  },
+  {
+    "station_id": "S-TAN-099",
+    "name": "Station Iberia 99",
+    "city": "Tanger",
+    "district": "Iberia",
+    "zone_type": "plage",
+    "capacity": 31,
+    "latitude": 35.748887,
+    "longitude": -5.801864
+  },
+  {
+    "station_id": "S-TAN-100",
+    "name": "Station Boukhalef 100",
+    "city": "Tanger",
+    "district": "Boukhalef",
+    "zone_type": "centre_affaires",
+    "capacity": 30,
+    "latitude": 35.748194,
+    "longitude": -5.842149
+  }
+]
